@@ -55,3 +55,14 @@ Snapshot date: 15th July 2024 12:50 PM UTC
 | LP: Uniswap V3 HAI/ETH | 7/15/2024           | 8/15/2024         | 30           | 200        |
 
 Snapshot date: 15th August 2024 12:50 PM UTC
+
+## Round 6
+
+| Campaign               | Campaign Start Date | Campaign End Date | KITE per Day | OP per Day |
+| ---------------------- | ------------------- | ----------------- | ------------ | ---------- |
+| Borrow: WETH           | 8/15/2024           | 9/13/2024         | 20           | 25         |
+| Borrow: WSTETH         | 8/15/2024           | 9/13/2024         | 20           | 25         |
+| Borrow: OP             | 8/15/2024           | 9/13/2024         | 20           | 50         |
+| LP: Uniswap V3 HAI/ETH | 8/15/2024           | 9/13/2024         | 30           | 200        |
+
+Snapshot date: 13th September 2024 12:50 PM UTC
