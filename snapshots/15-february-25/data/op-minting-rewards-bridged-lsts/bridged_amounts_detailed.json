@@ -1,0 +1,281 @@
+[
+  {
+    "address": "0xd4c286174ead0c7c64c21f2d121a7e98e25ded34",
+    "bridgeTransactions": [
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "95261797000000000000",
+        "blockHeight": 126537359
+      },
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "95089190000000000000",
+        "blockHeight": 125707892
+      }
+    ]
+  },
+  {
+    "address": "0x5275817b74021e97c980e95ede6bbac0d0d6f3a2",
+    "bridgeTransactions": [
+      {
+        "bridgeName": "Standard Bridge",
+        "token": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+        "amount": "3679200",
+        "blockHeight": 125969814
+      },
+      {
+        "bridgeName": "Standard Bridge",
+        "token": "RETH",
+        "amount": "8000000000000000000",
+        "blockHeight": 125775218
+      },
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "9749945000000000000",
+        "blockHeight": 125459291
+      },
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "13354364000000000000",
+        "blockHeight": 125289267
+      },
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "14580143000000000000",
+        "blockHeight": 125906853
+      },
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "990684000000000000",
+        "blockHeight": 130777256
+      }
+    ]
+  },
+  {
+    "address": "0xb9a78da328e791c33ea93d084632dcacae50ab1b",
+    "bridgeTransactions": [
+      {
+        "bridgeName": "Standard Bridge",
+        "token": "RETH",
+        "amount": "3285390922275747320",
+        "blockHeight": 127530858
+      },
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "2240549000000000000",
+        "blockHeight": 125036915
+      },
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "12964957000000000000",
+        "blockHeight": 124896159
+      },
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "937306000000000000",
+        "blockHeight": 130594839
+      }
+    ]
+  },
+  {
+    "address": "0x16ef04260ca959c75bd8d4247874517c9cf74d12",
+    "bridgeTransactions": [
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "4762877000000000000",
+        "blockHeight": 125269634
+      }
+    ]
+  },
+  {
+    "address": "0x5fdb500ba1d9b6be0c164ce609277cd968c5d45e",
+    "bridgeTransactions": [
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "5523044000000000000",
+        "blockHeight": 125369553
+      }
+    ]
+  },
+  {
+    "address": "0x0556bdc524fcd2b8855eaacb1e10638b292a47a3",
+    "bridgeTransactions": [
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "1425371000000000000",
+        "blockHeight": 125914094
+      },
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "713319000000000000",
+        "blockHeight": 125659824
+      },
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "236701000000000000",
+        "blockHeight": 126872259
+      }
+    ]
+  },
+  {
+    "address": "0xde93a283495fa2834047b53871a8e4e09f96d841",
+    "bridgeTransactions": [
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "857104000000000000",
+        "blockHeight": 125335803
+      },
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "733301000000000000",
+        "blockHeight": 125335468
+      }
+    ]
+  },
+  {
+    "address": "0xf23f999ece302ea646509b51e6c4c19055471ab0",
+    "bridgeTransactions": [
+      {
+        "bridgeName": "Standard Bridge",
+        "token": "0x7fb688ccf682d58f86d7e38e03f9d22e7705448b",
+        "amount": "1053920480905028930489",
+        "blockHeight": 129617011
+      },
+      {
+        "bridgeName": "Standard Bridge",
+        "token": "0xc40f949f8a4e094d1b49a23ea9241d289b7b2819",
+        "amount": "1800000000000000000000",
+        "blockHeight": 129593745
+      },
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "953245000000000000",
+        "blockHeight": 125092625
+      }
+    ]
+  },
+  {
+    "address": "0x223c381a3aae44f7e073e66a8295dce2955e0098",
+    "bridgeTransactions": [
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "666613000000000000",
+        "blockHeight": 125345517
+      }
+    ]
+  },
+  {
+    "address": "0x0a0d752f90b7bf700e29379c7f512c87561e959a",
+    "bridgeTransactions": [
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "713470000000000000",
+        "blockHeight": 125612261
+      }
+    ]
+  },
+  {
+    "address": "0x1474ba7f53dcd016a156e64e7d40a1543df58acd",
+    "bridgeTransactions": [
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "284760000000000000",
+        "blockHeight": 126169634
+      }
+    ]
+  },
+  {
+    "address": "0xdde9aef30339d2c5d02101e0a483e3d1891e1d69",
+    "bridgeTransactions": [
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "3280436000000000000",
+        "blockHeight": 130643625
+      }
+    ]
+  },
+  {
+    "address": "0x1a47d2dbb73f31cf49c7b2323cbce914e4b4ddb0",
+    "bridgeTransactions": [
+      {
+        "bridgeName": "Standard Bridge",
+        "token": "RETH",
+        "amount": "6756564594443719212",
+        "blockHeight": 129278452
+      },
+      {
+        "bridgeName": "Standard Bridge",
+        "token": "RETH",
+        "amount": "15973910000000000000",
+        "blockHeight": 129147202
+      }
+    ]
+  },
+  {
+    "address": "0xc5233c3b46c83adee1039d340094173f0f7c1ecf",
+    "bridgeTransactions": [
+      {
+        "bridgeName": "Standard Bridge",
+        "token": "RETH",
+        "amount": "443690107214656022",
+        "blockHeight": 129340128
+      }
+    ]
+  },
+  {
+    "address": "0x97525526C3Fcc9DA8a5109A7fbd49034fA13BED7",
+    "bridgeTransactions": [
+      {
+        "bridgeName": "Standard Bridge",
+        "token": "RETH",
+        "amount": "5000000000000000",
+        "blockHeight": 126335341
+      },
+      {
+        "bridgeName": "Standard Bridge",
+        "token": "RETH",
+        "amount": "5000000000000000",
+        "blockHeight": 126334866
+      },
+      {
+        "bridgeName": "apxETH Bridge",
+        "token": "apxETH",
+        "amount": "11839000000000000",
+        "blockHeight": 126336087
+      },
+      {
+        "bridgeName": "Hop Bridge",
+        "token": "rETH",
+        "amount": "4990984508711212",
+        "blockHeight": 126335923
+      },
+      {
+        "bridgeName": "Lido Bridge",
+        "token": "wstETH",
+        "amount": "5000000000000000",
+        "blockHeight": 126335516
+      }
+    ]
+  }
+]
